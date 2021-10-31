@@ -6,13 +6,14 @@
  2021.07-now Gap Year
 
 ## My projects
-这里是我做过的一些编程项目。
+我做过的编程项目。
+### 1. [Basic Java](https://github.com/NikolaPeng/NikolaPeng.github.io/blob/main/BasicJava.md)
 
 ## My tech-articles
-这部分是我在学习代码、算法、刷题时的心得。
+我在学习代码、算法、刷题时的思考。
 
-## some essays
-一些感悟。
+## Some essays
+个人的文章。
 
 
 
