@@ -1,3 +1,0 @@
-#Basic knowledge of Java
-
-##
