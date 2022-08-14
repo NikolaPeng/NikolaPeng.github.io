@@ -1,23 +1,29 @@
-# Peng Shaogeng's Pages
+# SHAOGENG PENG
+(+1)412-xxx-xxxx| pengshaogeng@gmail.com| Pittsburgh, PA
 
-## My Experience
- 2017.08-2021.07 Xi'an Jiaotong University
+---
 
- 2021.07-now Gap Year
+### EDUCATION
 
-## My projects
-我做过的编程项目。
-### 1. [Basic Java](https://github.com/NikolaPeng/NikolaPeng.github.io/blob/main/BasicJava.md)
+ 08/2022-05/2024:
+ ***University of Pittsburgh***, Pittsburgh, PA, United States. **Master of Information Science**
+ 
+ 08/2017-07/2021: 
+ ***Xi'an Jiaotong University***, Xi'an, Shaanxi, China. **Bachelor of Software Engineering**   
+ 
+ ---
+ 
+### TECHNICAL SKILLS
 
-## My tech-articles
-我在学习代码、算法、刷题时的思考。
+### PROJECTS
 
-## Some essays
-个人的文章。
+### PUBLICATION
+***Shaogeng Peng***, The Role of Fat-Tailed Distribution in The Analysis of Black Swan Events, The International Conference on
+Economic Management and Green Development (ICEMGD), August 15, 2021, Stanford, CA, USA
 
 
 
-**Contact me: pengshaogeng@qq.com**
+
 
 
 
